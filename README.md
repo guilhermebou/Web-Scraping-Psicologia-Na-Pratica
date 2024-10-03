@@ -2,9 +2,6 @@
 
 Este projeto realiza a coleta automatizada de informações do site [Psicologia Na Prática](https://www.psicologianapratica.com/material-gratuito). As informações extraídas incluem o título do material, descrição, imagem e link para download.
 
-## **🏷️ Nota** 
-Nesta implementacao utilizamos o python em sua versao 3.10.4, a biblioteca python BeautifulSoup em sua versão 4.12.2 ela é utilizada para realizar a raspagem de dados (web scraping), biblioteca python NLTK na versão 3.8.1 para o processo do pré-processamento com a tokenização, utilizado o dicionario [LIWC Portugues](http://143.107.183.175:21380/portlex/index.php/pt/projetos/liwc), também utilizado a Interface de Programação de Aplicação (API) GPT-3.5-Turbo para realizar a analise, identificação e listagem das expressões desejadas, por ultimo, utilizado a biblioteca Requests 2.31.0 para realizar a requisiçao nos sites obtendo o "Hypertext Transfer Protocol" (HTTP). O desenvolvimento foi realizado em uma máquina com sistema operacional de 64 bit- Windows 10 Home.
-
 ## **📝 Requisitos/Instalação ⚙️** 
 
 ▶️ **Python 3.10.4:** Download no site oficial do Python
